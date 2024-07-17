@@ -11,7 +11,7 @@ const Api = () => {
         <div>
           <div className=" gap-[20px] flex flex-col max-sm:flex-col max-sm:items-center max-sm:justify-center">
             <p className="w-[50vw] max-sm:w-[75vw] max-sm:text-center max-sm:leading-[25px]">
-              cleanurl.site exposes its data via an Application Programming
+              cleanurl.site is a group project between Frontend Developer and Backend Engineers at Toshconsult Technologies Inc 2024 session and exposes its data via an Application Programming
               Interface (API), so developers can interact in a programmatic way
               with application.
             </p>

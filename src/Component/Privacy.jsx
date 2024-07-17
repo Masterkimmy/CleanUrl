@@ -9,7 +9,7 @@ const Privacy = () => {
         <h1 className="text-white text-[40px] font-bold max-sm:text-[30px]">
           Privacy Policy
         </h1>
-        <div className="flex flex-col gap-4 max-sm:items-center justify-center">
+        <div className="flex flex-col gap-4">
           <h3>Effective date: July 15, 2024</h3>
           <h3 className="w-[60vw] max-sm:w-[82vw]">
             cleanurl.site ("us", "we", or "our") operates the
