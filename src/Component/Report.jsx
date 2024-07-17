@@ -82,7 +82,7 @@ export default function Report() {
               </button>
             </div>
             <p className="text-slate-400 font-bold text-xl">
-              Copyright © 2018-2023.
+              Copyright © 2024.
             </p>
           </form>
         </div>

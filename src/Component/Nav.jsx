@@ -8,8 +8,8 @@ const Nav = () => {
   }
   return (
     <div>
-      <nav className="flex items-center justify-between md:justify-around w-full px-[20px] md:px-[70px] py-[30px] bg-black">
-        <a className="text-white text-3xl font-bold " href="/">
+      <nav className="flex items-center justify-between md:justify-around w-full px-[20px] md:px-[70px] py-[30px] bg-white">
+        <a className="text-black text-3xl font-bold " href="/">
           Cleanurl.site
         </a>
         <div>
@@ -37,7 +37,7 @@ const Nav = () => {
         <div>
           <button
             onClick={handleMenu}
-            className="flex md:hidden text-white font-bold text-25px p-4"
+            className="flex md:hidden text-black font-bold text-25px p-4"
           >
             {menu ? <IoCloseSharp /> : <IoMdMenu />}
           </button>

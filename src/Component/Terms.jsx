@@ -172,7 +172,7 @@ const Terms = () => {
             resolution of any disputes.
           </p>
         </div>
-        <p className="text-[#afa8a8]">Copyright © 2018-2023.</p>
+        <p className="text-[#afa8a8]">Copyright © 2024</p>
       </div>
     </>
   );
